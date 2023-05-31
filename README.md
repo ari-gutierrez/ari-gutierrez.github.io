@@ -1,3 +1,1 @@
-# FooBar
-
-Hello World!
+![Please stand by](./senal_ajuste.png)
